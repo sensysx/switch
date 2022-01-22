@@ -1,0 +1,19 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sensysx",
+  "license": "ISC",
+  "dependencies": {
+    "discord-buttons": "^4.0.0-deprecated",
+    "discord.js": "^13.6.0",
+    "i": "^0.3.7",
+    "npm": "^8.3.2",
+    "reconlx": "^2.5.2",
+    "wokcommands": "^1.5.3"
+  }
+}
